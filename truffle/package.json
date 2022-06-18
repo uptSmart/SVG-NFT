@@ -1,0 +1,9 @@
+{
+  "name": "truffle-dev-suite",
+  "version": "1.0.0",
+  "description": "Personal truffle setup & config",
+  "main": "index.js",
+  "author": "T-Ph",
+  "license": "MIT",
+  "private": true
+}
